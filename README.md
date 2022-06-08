@@ -4,7 +4,7 @@
 - TypeScript
 - Chakra UI
 
-- [Installation](#installation)
+### [Installation](#installation)
 
 You can use other versions, but the project is build on the use of these versions.
 
